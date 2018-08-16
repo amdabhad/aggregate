@@ -1009,7 +1009,7 @@
 [submodule "numpy-feedstock"]
 	path = numpy-feedstock
 	url = ../numpy-feedstock
-	branch = master
+	branch = numpy114
 [submodule "numexpr-feedstock"]
 	path = numexpr-feedstock
 	url = ../numexpr-feedstock
@@ -3094,3 +3094,7 @@
 	path = libjpeg-turbo-feedstock
 	url = ../libjpeg-turbo-feedstock
 	branch = master
+[submodule "numpy-1.14-feedstock"]
+	path = numpy-1.14-feedstock
+	url = ../numpy-feedstock
+	branch = numpy114
