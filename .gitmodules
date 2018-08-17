@@ -3098,3 +3098,11 @@
 	path = numpy-1.14-feedstock
 	url = ../numpy-feedstock
 	branch = numpy114
+[submodule "libwebp-feedstock"]
+	path = libwebp-feedstock
+	url = ../libwebp-feedstock
+	branch = master
+[submodule "libgd-feedstock"]
+	path = libgd-feedstock
+	url = ../libgd-feedstock
+	branch = master
